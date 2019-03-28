@@ -54,7 +54,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Buttons.cs" />
+     <Compile Include="Assets\Scripts\FallDownTrash.cs" />
      <Compile Include="Assets\Scripts\Pause.cs" />
+     <Compile Include="Assets\Scripts\SpawnBombs.cs" />
      <Compile Include="Assets\Scripts\SpawnFish.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/arthu/Documents/GitHub/Rybalka/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
