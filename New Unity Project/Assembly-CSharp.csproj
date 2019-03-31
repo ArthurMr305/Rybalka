@@ -53,8 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Audio.cs" />
      <Compile Include="Assets\Scripts\Buttons.cs" />
      <Compile Include="Assets\Scripts\FallDownTrash.cs" />
+     <Compile Include="Assets\Scripts\MoveFish.cs" />
      <Compile Include="Assets\Scripts\Pause.cs" />
      <Compile Include="Assets\Scripts\SpawnBombs.cs" />
      <Compile Include="Assets\Scripts\SpawnFish.cs" />
