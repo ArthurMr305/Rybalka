@@ -896,9 +896,9 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1434567033}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.19, y: -0.03, z: 0}
-  m_LocalScale: {x: 1.6290323, y: 1.1190082, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.22, y: -0, z: 0}
+  m_LocalScale: {x: 1.9003271, y: 1.205801, z: 1}
   m_Children: []
   m_Father: {fileID: 1910374659}
   m_RootOrder: 0
@@ -1048,6 +1048,7 @@ GameObject:
   - component: {fileID: 1910374658}
   - component: {fileID: 1910374657}
   - component: {fileID: 1910374660}
+  - component: {fileID: 1910374661}
   m_Layer: 0
   m_Name: Back
   m_TagString: Untagged
@@ -1104,9 +1105,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 157618871e4b4a84fb55be4bc7e094a1, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.02745098, g: 1, b: 0.6870773, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1146,6 +1147,17 @@ MonoBehaviour:
   layer_blue: {fileID: 21300000, guid: 8fda628ced84d274388ae13cff4d3b22, type: 3}
   layer_green: {fileID: 21300000, guid: 8a3a66a94d136944ab71094b3e8e3fbd, type: 3}
   action: Back
+--- !u!114 &1910374661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1910374656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2705d0be9f678fd48902e3562b6f2f84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2030353830
 GameObject:
   m_ObjectHideFlags: 0
@@ -1156,7 +1168,7 @@ GameObject:
   - component: {fileID: 2030353832}
   - component: {fileID: 2030353831}
   m_Layer: 0
-  m_Name: imgonline-com-ua-Transparent-backgr-sJc1RwJSwH86M
+  m_Name: Tom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1215,7 +1227,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2030353830}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.93, y: -0.23, z: 0}
+  m_LocalPosition: {x: -2.05, y: 0.11, z: 0}
   m_LocalScale: {x: 0.2672739, y: 0.34433872, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
