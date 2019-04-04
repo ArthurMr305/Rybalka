@@ -16,7 +16,8 @@ public class SpawnBombs : MonoBehaviour {
 			Instantiate (trash2, new Vector2 (Random.Range (-1.06f, 2.51f), 5.7f), Quaternion.identity);
 			yield return new WaitForSeconds (1.2f);
 
-		}
+			}
+	
 
 	}
 

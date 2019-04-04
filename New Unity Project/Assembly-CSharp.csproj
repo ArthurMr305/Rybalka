@@ -58,10 +58,12 @@
      <Compile Include="Assets\Scripts\FallDownTrash.cs" />
      <Compile Include="Assets\Scripts\MoveFish.cs" />
      <Compile Include="Assets\Scripts\Pause.cs" />
+     <Compile Include="Assets\Scripts\RandomFish.cs" />
      <Compile Include="Assets\Scripts\SecondButton.cs" />
      <Compile Include="Assets\Scripts\SpawnBombs.cs" />
      <Compile Include="Assets\Scripts\SpawnFish.cs" />
      <Compile Include="Assets\Scripts\TheSun.cs" />
+     <Compile Include="Assets\Scripts\Tom.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/arthu/Documents/GitHub/Rybalka/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
