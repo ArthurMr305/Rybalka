@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Play.unity
     guid: 135d9944f7b9c0c40bfcf40ea99c0e38
+  - enabled: 1
+    path: Assets/Scenes/Questions.unity
+    guid: 459486d04148e474498a29f97ae3a084
   m_configObjects: {}

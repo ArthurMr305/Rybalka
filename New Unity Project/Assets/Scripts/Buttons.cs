@@ -27,6 +27,15 @@ public class Buttons : MonoBehaviour {
 		case"Back":
 			Application.LoadLevel ("Main");
 			break;
+		case"HowTo":
+			Application.LoadLevel("Questions");
+			break;
+		case"GoToPlay":
+			Application.LoadLevel("Play");
+			break;
+		case"BackToMenu":
+			Application.LoadLevel("Main");
+			break;
 		case"Music":
 			if (PlayerPrefs.GetString ("Music") != "no") {
 				PlayerPrefs.SetString ("Music", "no");
