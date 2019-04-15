@@ -57,6 +57,7 @@
      <Compile Include="Assets\Scripts\Buttons.cs" />
      <Compile Include="Assets\Scripts\FallDownTrash.cs" />
      <Compile Include="Assets\Scripts\MoveFish.cs" />
+     <Compile Include="Assets\Scripts\Nameofgame.cs" />
      <Compile Include="Assets\Scripts\Pause.cs" />
      <Compile Include="Assets\Scripts\RandomFish.cs" />
      <Compile Include="Assets\Scripts\SecondButton.cs" />
